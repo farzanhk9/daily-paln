@@ -85,7 +85,7 @@ def view_summary(data):
 def daily_plan(data):
     print("\n==== YOUR DAILY PLAN ====")
     print("🌅 Morning: Meditation, Healthy Breakfast, Check Tasks")
-    print("🌞 Afternoon: Work on shop/business, Learning English, Crypto projects")
+    print("🌞🌞 Afternoon: Work on shop/business, Learning English, Crypto projects")
     print("🌙 Evening: Play with your son, Exercise, Relax")
     print("🌌 Night: Review the day, Prepare tomorrow")
     print("=========================")
